@@ -15,9 +15,9 @@ href ="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 <div class="alert alert-succses">
 <strong> succes!</strong> This alert box could indicate a successuful  </div>
 <div class ="alert alert-info">
-<strong> info!</strong>This alet box could indicate a neutral informative</div>
+<strong> info!</strong>This alet box could indicate informative</div>
 <div class="alert alert-warning">
-<strong>warning!</strong> this alert box could indicate a warning that might need attention.</div>
+<strong>warning!</strong> this alert box could indicate a warning </div>
 <div class ="alert alert-danger">
 <strong> Danger!</strong>
 this alert box could indicate a dangerous</div>
